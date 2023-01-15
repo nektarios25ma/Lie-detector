@@ -11,5 +11,5 @@ https://grobotronics.com/heart-rate-and-oximeter-sensor-max30102.html
 https://grobotronics.com/jumper-wires-30cm-male-to-male-pack-of-10.html
 4)πλακέτα=€8.80
 https://grobotronics.com/103x87x1.6mm-gainta-d6mg-pcb-a.html
-Σύνολο=70€
+Σύνολο=70€   
 
