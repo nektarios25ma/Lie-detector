@@ -21,7 +21,15 @@ library and examples to install
 library to install
 3)https://codeload.github.com/DFRobot/DFRobot_RTU/zip/refs/heads/master
 
+
 ΑΠΛΟΣ ΑΝΙΧΝΕΥΤΗΣ ΨΕΥΔΟΥΣ
 4)https://projecthub.arduino.cc/BuildItDR/41f70368-639d-4833-9534-9a66bceb7ff9
 
+processing ide
+https://github.com/fractalclockwork/biofeedback_emg
+or
 
+https://github.com/masteruan/Arduino-Biofeedback
+ or
+ https://github.com/limadlp/Biofeedback
+ 
