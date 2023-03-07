@@ -11,5 +11,17 @@ https://grobotronics.com/heart-rate-and-oximeter-sensor-max30102.html
 https://grobotronics.com/jumper-wires-30cm-male-to-male-pack-of-10.html
 4)πλακέτα=€8.80
 https://grobotronics.com/103x87x1.6mm-gainta-d6mg-pcb-a.html
-Σύνολο=70€   
+Σύνολο=70€  
+ΠΗΓΕΣ
+ 1) https://wiki.dfrobot.com/Heart_Rate_and_Oximeter_Sensor_V2_SKU_SEN0344#target_7
+ 
+library and examples to install
+2)https://github.com/DFRobot/DFRobot_BloodOxygen_S
+
+library to install
+3)https://codeload.github.com/DFRobot/DFRobot_RTU/zip/refs/heads/master
+
+ΑΠΛΟΣ ΑΝΙΧΝΕΥΤΗΣ ΨΕΥΔΟΥΣ
+4)https://projecthub.arduino.cc/BuildItDR/41f70368-639d-4833-9534-9a66bceb7ff9
+
 
