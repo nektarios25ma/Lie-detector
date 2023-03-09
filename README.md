@@ -12,7 +12,7 @@ https://grobotronics.com/jumper-wires-30cm-male-to-male-pack-of-10.html
 4)πλακέτα=€8.80
 https://grobotronics.com/103x87x1.6mm-gainta-d6mg-pcb-a.html
 Σύνολο=70€  
-ΠΗΓΕΣ
+PROJECT-ΠΗΓΕΣ (με βάση τα υλικά μας)
  1) https://wiki.dfrobot.com/Heart_Rate_and_Oximeter_Sensor_V2_SKU_SEN0344#target_7
  
 library and examples to install
@@ -32,4 +32,9 @@ or
 https://github.com/masteruan/Arduino-Biofeedback
  or
  https://github.com/limadlp/Biofeedback
+ 
+ ΕΠΙΣΤΗΜΟΝΙΚΕΣ ΠΗΓΕΣ
+ 1)Polygraph : https://en.wikipedia.org/wiki/Polygraph
+ 
+ 2)Electrodermal activity : https://en.wikipedia.org/wiki/Electrodermal_activity
  
