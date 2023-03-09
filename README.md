@@ -22,6 +22,7 @@ library to install
 3)https://codeload.github.com/DFRobot/DFRobot_RTU/zip/refs/heads/master
 
 GSR_MORE : https://www.youtube.com/watch?v=1clagERAiR4
+AND http://www.himix.lt/arduino/arduino-and-galvanic-skin-response-gsr-sensor/
 
 
 ΑΠΛΟΣ ΑΝΙΧΝΕΥΤΗΣ ΨΕΥΔΟΥΣ
