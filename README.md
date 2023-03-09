@@ -21,6 +21,8 @@ library and examples to install
 library to install
 3)https://codeload.github.com/DFRobot/DFRobot_RTU/zip/refs/heads/master
 
+GSR_MORE : https://www.youtube.com/watch?v=1clagERAiR4
+
 
 ΑΠΛΟΣ ΑΝΙΧΝΕΥΤΗΣ ΨΕΥΔΟΥΣ
 4)https://projecthub.arduino.cc/BuildItDR/41f70368-639d-4833-9534-9a66bceb7ff9
