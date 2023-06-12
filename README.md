@@ -8,19 +8,27 @@
 【Μέτρηση συναισθημάτων】Είναι ένα ενδιαφέρον εργαλείο για τη δημιουργία έργων που σχετίζονται με τα συναισθήματα. Σε ορισμένες συσκευές γαλβανικής απόκρισης δέρματος, όπως οι ανιχνευτές ψεύδους, εφαρμόζεται επίσης αυτή η επιστημονική αρχή.
 
 Υλικά:
-1)Arduino Uno=€26.91
+
+1)Arduino Uno=€26.91 
 https://grobotronics.com/arduino-uno-rev3.html
+
 2)Heart Rate Sensor=€19.90
 https://grobotronics.com/heart-rate-and-oximeter-sensor-max30102.html
+
 3)Jumper Wires =€2.20
 https://grobotronics.com/jumper-wires-30cm-male-to-male-pack-of-10.html
+
 4)πλακέτα=€8.80
 https://grobotronics.com/103x87x1.6mm-gainta-d6mg-pcb-a.html
+
 5)gsr sensor = €19.90
 https://www.amazon.com/seeed-studio-Seeedstudio-Grove-sensor/dp/B012TNYDE4?th=1
+
 Σύνολο=90€  
+
 PROJECT-ΠΗΓΕΣ (με βάση τα υλικά μας)
- 1) https://wiki.dfrobot.com/Heart_Rate_and_Oximeter_Sensor_V2_SKU_SEN0344#target_7
+
+1) https://wiki.dfrobot.com/Heart_Rate_and_Oximeter_Sensor_V2_SKU_SEN0344#target_7
  
 library and examples to install
 2)https://github.com/DFRobot/DFRobot_BloodOxygen_S
