@@ -27,6 +27,14 @@ https://grobotronics.com/103x87x1.6mm-gainta-d6mg-pcb-a.html
 5)gsr sensor = €19.90
 https://www.amazon.com/seeed-studio-Seeedstudio-Grove-sensor/dp/B012TNYDE4?th=1
 
+6)Step-Down (Buck) Converter= €4.60
+
+7)battery case= €1.20
+
+8)tact switch = €0.1500
+
+9)2 x 18650 battery=2x €4.60
+
 Σύνολο=90€  
 
 PROJECT-ΠΗΓΕΣ (με βάση τα υλικά μας)
