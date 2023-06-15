@@ -1,5 +1,6 @@
 # Lie-detector
 Ανιχνευτής ψεύδους λοιπόν ίσως ,σίγουρα όμως ανιχνευτής αλλαγής συναισθηματικής διάθεσης.
+
 Πλήρης εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ: https://openedtech.ellak.gr/robotics2023/gel-soudasingenious-teammecanum-robot/
 
 
