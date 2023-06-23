@@ -1,7 +1,7 @@
 # Lie-detector
 Ανιχνευτής ψεύδους λοιπόν ίσως ,σίγουρα όμως ανιχνευτής αλλαγής συναισθηματικής διάθεσης.
 
-Πλήρης εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ: https://openedtech.ellak.gr/robotics2023/gel-soudasingenious-teammecanum-robot/
+Πλήρης εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ: https://openedtech.ellak.gr/robotics2023/anichneftis-psevdous/
 
 
 Σε αυτό το project θα εξερευνήσουμε τα ευρήματα της ιατρικής επιστήμης στον τρόπο ανίχνευσης του ψεύδους με την βοήθεια αισθητήρων.
