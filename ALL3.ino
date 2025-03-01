@@ -60,8 +60,8 @@ while (false == MAX30102.begin())
   digitalWrite(LED,LOW);
   delay(1000);
 pinMode(2, OUTPUT);//GREEN
-	pinMode(3,   OUTPUT);//ORANGE OR YELLOW
-	pinMode(4, OUTPUT);//RED
+	pinMode(4,   OUTPUT);//ORANGE OR YELLOW
+	pinMode(5, OUTPUT);//RED
 	digitalWrite(2, LOW);
 	delay(500);
 	digitalWrite(3, LOW);
